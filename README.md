@@ -3,6 +3,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.txt)
 ![Actions Status](https://github.com/benhayehudi/rack-monetize/workflows/CI/badge.svg)
+[![Gem Version](https://badge.fury.io/rb/rack-monetize.svg)](https://badge.fury.io/rb/rack-monetize)
 
 The Rack Web Monetization Middleware offers support for handling status updates from the [Web Monetization API](https://webmonetization.org/docs/getting-started).
 
